@@ -19,13 +19,13 @@ Candidates must take three mandatory subjects: Mathematics, Literature, and Engl
 
 2023: https://github.com/anhdung98/diem_thi_2023/releases/download/v1.0/diem_thi_thpt_2023.csv
 ## Significant Explore
-### The number of candidates from 2020 to 2023 
+### The number of candidates from 2020 to 2023:
 ![image](https://github.com/vythanhnguyen/Visualizing-National-High-School-Examination/assets/162904704/94685900-973e-4215-b90e-3c7defa73fc8)
-### A heatmap illustrates the correlations between scores of subjects.
+### A heatmap illustrates the correlations between scores of subjects:
 ![image](https://github.com/vythanhnguyen/Visualizing-National-High-School-Examination/assets/162904704/63df1c0b-8b3d-4b0c-831c-7cd674d474ff)
-### The number of candidates taking other foreign languages
+### The number of candidates taking other foreign languages:
 ![image](https://github.com/vythanhnguyen/Visualizing-National-High-School-Examination/assets/162904704/74a104b6-278f-4a47-a022-97178556200a)
-### Map illustrates the number of candidates taking Chinese language
+### Map illustrates the number of candidates taking Chinese language:
 ![image](https://github.com/vythanhnguyen/Visualizing-National-High-School-Examination/assets/162904704/9e0a4927-11a6-419c-bef8-7927b0a1c4de)
 
 
