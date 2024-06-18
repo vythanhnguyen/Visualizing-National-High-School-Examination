@@ -1,7 +1,11 @@
 The project is based on the results of the National High School Exam scores of over 3.8 million candidates from 2020 to 2023. 
-# Visualizing the result of National High School Examination Score 
+# Visualizing the Score of the Vietnamese National High School Graduation Examination  
 ## Object 
 The objective is to survey, compare, evaluate, and visually represent the examination results of candidates.
+## Introduction 
+The exam results objectively reflect the academic achievements of candidates and the quality of teaching methods in different cties. Moreover, these results serve as a crucial criterion for university admissions evaluations. Therefore, analyzing and carefully considering the exam results provide us with a fundamental understanding of the effectiveness of teaching and learning methods, as well as guiding candidates towards suitable career plan for their future.
+
+
 ## Process
 1.  Pre-processing
 2.  Descriptive Statistics
