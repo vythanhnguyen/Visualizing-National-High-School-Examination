@@ -3,9 +3,11 @@ The project is based on the results of the National High School Exam scores of o
 ## Object 
 The objective is to survey, compare, evaluate, and visually represent the examination results of candidates.
 ## Introduction 
-The exam results objectively reflect the academic achievements of candidates and the quality of teaching methods in different cties. Moreover, these results serve as a crucial criterion for university admissions evaluations. Therefore, analyzing and carefully considering the exam results provide us with a fundamental understanding of the effectiveness of teaching and learning methods, as well as guiding candidates towards suitable career plan for their future.
+The exam results objectively reflect the academic achievements of candidates and the quality of teaching methods in different cities. Moreover, these results serve as a crucial criterion for university admissions evaluations. Therefore, analyzing and carefully considering the exam results provide us with a fundamental understanding of the effectiveness of teaching and learning methods, as well as guiding candidates towards suitable career plan for their future.
 
-
+Candidates must take three mandatory subjects: Mathematics, Literature, and English, along with one of the two combinations below: 
+1. Natural Science including: Physics, Chemistry, Biology
+2. Social Science including: History, Geography, and Civic Education
 ## Process
 1.  Pre-processing
 2.  Descriptive Statistics
