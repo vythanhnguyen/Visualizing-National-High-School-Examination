@@ -26,7 +26,8 @@ Candidates must take three mandatory subjects: Mathematics, Literature, and Engl
 ### The number of candidates taking other foreign languages:
 ![image](https://github.com/vythanhnguyen/Visualizing-National-High-School-Examination/assets/162904704/74a104b6-278f-4a47-a022-97178556200a)
 ### Map illustrates the number of candidates taking Chinese language:
-![image](https://github.com/vythanhnguyen/Visualizing-National-High-School-Examination/assets/162904704/9e0a4927-11a6-419c-bef8-7927b0a1c4de)
+![image](https://github.com/vythanhnguyen/Visualizing-National-High-School-Examination/assets/162904704/697aa38c-e496-4cb9-9bca-14d71abc9650)
+
 
 
 
